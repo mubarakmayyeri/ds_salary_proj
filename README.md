@@ -2,7 +2,7 @@ Project for predicting salary for data sicence jobs from glassdoor.com
 
 ## Resources
 
-Selenium tutorial : https://www.markdownguide.org/cheat-sheet/
+Selenium tutorial : https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 
 Scraper code : https://github.com/arapfaik/scraping-glassdoor-selenium
 
